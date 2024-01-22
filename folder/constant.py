@@ -3,9 +3,9 @@ SKILL_SET_LIST = ["angular", "angularjs", "angulardeveloper", "rxjs", "javascrip
                   "restapi", "unittesting"
                   "tailwind", "angularmaterial",
                   "typescript", "git", "gitlab", "github", "scss", "html", "html5", "python", "flask",
-                  "computerengineering"]
+                  "computerengineering", "sr.frontendangular12+developer"]
 
-API_LIGIN_PAGE = "https://www.dice.com/dashboard/login"
-USER_NAME = "ravi.akscellence@gmail.com"
-PASSWORD = "Passw0rd#"
+LOGIN_PAGE = ""
+USER_NAME = ""
+PASSWORD = ""
 SEARCH_FOR = "Senior Angular Developer"

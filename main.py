@@ -19,6 +19,7 @@ try:
         d.search_skill(SEARCH_FOR)
         # PASS SKILL SET LIST LIKE IN CONSTANT FILE
         d.loop_through_job_links(SKILL_SET_LIST)
+# Handling exception in dice
 except Exception as e:
     print("Their is some problem working with command line interface")
     print("what should I print.")

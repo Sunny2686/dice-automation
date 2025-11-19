@@ -1,5 +1,19 @@
-AUTOMATE JOB SEARCH IN DICE
-1. Use requirement.txt file to install all the dependencies.
-2. Use pip install requirement.txt command to install all the dependencies if not asked by IDE for default 
-3. In constant.py file change your userid , password, search_for and skill_set_list 
-4. For skill_set_list create a separate array with same name and add all the keyword related to skills in lowercase letter
+# Dice Job Search Automation
+
+A simple script to automate job searching on Dice based on predefined skills and keywords.
+
+## 🔧 Setup
+
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Open constant.py and update the following:
+- ```userid```
+- ```password```
+- ```search_for```
+- ```skill_set_list``` → skill_set_list = ["angular", "javascript", "frontend", "web development"] -> Add keywords related to your skills in lowercase (as a Python array)
+
+Feel free to modify keywords and search terms to improve job matching.
+Happy automating!
